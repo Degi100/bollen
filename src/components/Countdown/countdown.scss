@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Lato");
+
+
+body {
+    font-family: "Lato", sans-serif;
+}
+
+.counter {
+    display: flex;
+    justify-content: center;
+
+    span {
+        font-weight: bold;
+        padding: 20px;
+  }
+}
