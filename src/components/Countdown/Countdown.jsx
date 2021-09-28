@@ -28,6 +28,7 @@ export const Countdown = () => {
         <span>{hours} Hours </span>
         <span>{minutes} Minutes </span>
         <span>{seconds} Seconds</span>
+        
       </p>
     </div>
   );

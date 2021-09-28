@@ -10,13 +10,13 @@
   .caravan-logo {
     opacity: 1;
     animation: fade 5s linear;
-    transition-duration: 0.5s;
   }
 
   @keyframes fade {
     0%,
     100% {
       opacity: 0;
+      filter: drop-shadow(80px 55px 20px rgb(25 25 25 / 0.4));
     }
     50% {
       opacity: 1;
