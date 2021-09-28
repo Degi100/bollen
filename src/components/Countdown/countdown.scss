@@ -8,9 +8,11 @@ body {
 .counter {
     display: flex;
     justify-content: center;
-
+    background-color: rgb(78, 105, 122);
+    
     span {
         font-weight: bold;
+        color: white;
         padding: 20px;
   }
 }
