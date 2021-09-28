@@ -22,7 +22,7 @@ export const Countdown = () => {
 
   return (
     <div>
-      <p>Nur noch: </p>
+ 
       <p className="counter">
         <span>{days} Days </span>
         <span>{hours} Hours </span>
