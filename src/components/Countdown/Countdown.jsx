@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import './countdown.scss'
 
-const targetTime = new Date("2022-03-01").getTime();
+const targetTime = new Date("2022-01-01").getTime();
 
 export const Countdown = () => {
   const [currentTime, setCurrentTime] = useState(Date.now());
