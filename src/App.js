@@ -10,9 +10,6 @@ function App() {
         timeTillDate=" 26 11 2021, 13:00 p"
         timeFormat="DD MM YYYY, h:mm a"
       />
-<ul><li>
-<a href="http://www.web.de">web.de</a>
-</li></ul>
       </div>
       );
     }
